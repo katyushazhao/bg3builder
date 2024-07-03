@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Shadowheart",
+        "class": "Cleric",
+        "race": "Half-Elf",
+        "background": "Acolyte",
+        "skills": ["History", "Medicine"],
+        "ability_scores": {"Strength": "13", "Dexterity": "13", "Constitution": "14", "Intelligence": "10", "Wisdom": "17", "Charisma": "8"}
+    },
+    {
+        "name": "Astarion",
+        "class": "Rogue",
+        "race": "Elf",
+        "background": "Criminal",
+        "skills": ["Acrobatics", "Deception"],
+        "ability_scores": {"Strength": "10", "Dexterity": "17", "Constitution": "12", "Intelligence": "11", "Wisdom": "10", "Charisma": "14"}
+    },
+    {
+        "name": "Lae'zel",
+        "class": "Fighter",
+        "race": "Githyanki",
+        "background": "Soldier",
+        "skills": ["Athletics", "Intimidation"],
+        "ability_scores": {"Strength": "16", "Dexterity": "14", "Constitution": "14", "Intelligence": "10", "Wisdom": "11", "Charisma": "8"}
+    }
+]
